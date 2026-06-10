@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "channel": "stable",
+  "published": "2026-06-11",
+  "min_supported": "2.0.0",
+  "notes": [
+    "เพิ่มหน้ารายการขายสินค้า (สินค้า×สต็อก) + สีเตือนสต็อก + drill-down",
+    "ย้าย Stock Card ขึ้นเมนูหลัก + เมนูเอกสาร (เครดิตลูกค้า/คืน/ประวัติ)",
+    "ระบบยกเลิกบิล + คืนสินค้ารายตัว + คอลัมน์คืนแล้ว",
+    "ระบบ validation กันตัวเลขผิดปกติทุกช่อง",
+    "หน้า login พิมพ์ PIN จากคีย์บอร์ดได้",
+    "ระบบอัปเดตอัตโนมัติผ่าน GitHub"
+  ],
+  "url": "https://github.com/rakcomsoft-netizen/rakcomsoft2026/releases/download/v2.2.0/update.zip",
+  "mandatory": false
+}
